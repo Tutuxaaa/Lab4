@@ -1,0 +1,20 @@
+.btn{
+    margin-left: 12px;
+}
+
+.listitems {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 24px;
+}
+
+.listitems:hover {
+    background: #ffdab9;
+    border-radius: 6px;
+}
+
+.close{
+    color: gray;
+    text-decoration: line-through;
+}
